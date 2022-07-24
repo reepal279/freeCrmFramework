@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Free Crm Test automation Test Suit">
+    <classes>
+      <class name="com.crm.qa.testcases.ContactsPageTest"/>
+      <class name="com.crm.qa.testcases.HomePageTest"/>
+      <class name="com.crm.qa.testcases.LoginPageTest"/>
+       <class name="com.crm.qa.testcases.FreeCRMTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
